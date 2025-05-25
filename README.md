@@ -4,7 +4,7 @@ This project demonstrates a complete SQL workflow — from data cleaning to expl
 
 **Dataset Source**:  
 The dataset was downloaded from Kaggle: [Layoffs Dataset on Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022)  
-Since this dataset continues to receive updates as new data is added, I have also included the exact Excel file I used (`layoffs.xlsx`) for reference.
+Since this dataset continues to receive updates as new data is added, I have also included the exact Excel file I used (`layoffs.csv`) for reference.
 
 ---
 
@@ -70,5 +70,3 @@ Performed the following analysis:
 - `README.md` — Project summary
 
 ---
-
-"# layoffs-data-cleaning-EDA-sql" 
